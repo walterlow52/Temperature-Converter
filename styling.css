@@ -4,6 +4,7 @@
 
 body {
  background-image: linear-gradient(red, blue, white);  
+ background-atttachment: fixed;
 }
 
 .container {
