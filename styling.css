@@ -3,7 +3,8 @@
 }
 
 body {
- background-image: linear-gradient(to bottom, red, blue, white);  
+ background-image: linear-gradient(to bottom, red, blue, white); 
+ background-size: contain;
  background-atttachment: fixed;
  background-repeat: no-repeat;
 }
