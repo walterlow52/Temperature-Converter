@@ -11,7 +11,7 @@ function convertTemp(degrees) {
   }
 }
 
-function convertTemp2(degrees) {
+function convertTemp(degrees) {
   var x;
   if (degrees = 'C') {
     x = (document.getElementById("celsius2").value * 9) / 5 + 32;
