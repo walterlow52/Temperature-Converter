@@ -1,11 +1,15 @@
 * {
  font-family: "Copperplate"; 
+}
+
+body {
  background-image: linear-gradient(to bottom, red, blue, white);  
  background-atttachment: fixed;
  background-repeat: no-repeat;
 }
 
 .container {
+ background-image: linear-gradient(to bottom right, red, blue, white);
  display: flex;
  justify-content: center;
  align-items: center;
