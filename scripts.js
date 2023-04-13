@@ -11,7 +11,7 @@ function convertTemp(degrees) {
   }
 }
 
-function convertTemp2(degrees) {
+function convertTemp(degrees) {
   var x;
    if (degrees = 'F') {
     x = ((document.getElementById("farenheit2").value - 32) * 5) / 9; 
