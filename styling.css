@@ -29,8 +29,6 @@ body {
  letter-spacing: 5px;
  text-shadow: 5px 5px 10px black;
  text-align: center;
- /*column-count: 1;*/
- column-gap: 50px;
 }
 
 input[type=number] {
