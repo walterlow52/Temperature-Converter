@@ -29,7 +29,7 @@ body {
  letter-spacing: 5px;
  text-shadow: 5px 5px 10px black;
  text-align: center;
- transform: scaleY(3);
+ transform: scaleY(1.5);
 }
 
 input[type=number] {
