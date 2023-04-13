@@ -29,3 +29,13 @@ p {
  text-shadow: 2px 2px 5px black;
  text-align: center;
 }
+
+input[type=number] {
+ border: 5px inset black;
+ background-color: blue;
+ color: white;
+}
+
+input[type=number]:focus {
+  background-color: lightblue;
+}
