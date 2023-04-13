@@ -14,6 +14,7 @@ body {
  justify-content: center;
  align-items: center;
  border: 10px outset gray;
+ border-radius: 12px;
  padding: 10px 10px 10px 10px;
  height: 100%;
  width: 97%;
