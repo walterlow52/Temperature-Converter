@@ -30,6 +30,7 @@ body {
  text-shadow: 5px 5px 10px black;
  text-align: center;
  column-count: 2;
+ column-gap: 100px;
 }
 
 input[type=number] {
