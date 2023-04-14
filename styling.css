@@ -36,6 +36,7 @@ input[type=number] {
  border: 5px inset black;
  background-color: blue;
  color: white;
+ text-align: center;
 }
 
 input[type=number]:focus {
