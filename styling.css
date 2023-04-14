@@ -38,5 +38,6 @@ input[type=number] {
 }
 
 input[type=number]:focus {
-  background-color: lightblue;
+ background-color: lightblue;
+ color: black;
 }
